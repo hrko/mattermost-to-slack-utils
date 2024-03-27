@@ -1,5 +1,5 @@
-# mattermost-to-slack-utils
-MattermostからSlackに移行するために個人的に作ったツール郡
+# slack-to-mattermost-utils
+SlackからMattermostに移行するために個人的に作ったツール郡
 
 ## はじめに
 これらのツールを使う前に、[Mattermostの公式ドキュメント](https://docs.mattermost.com/onboard/migrate-from-slack.html#download-file-attachments-and-email-addresses)を一読して、移行の手順を理解しておくことをお勧めします。
